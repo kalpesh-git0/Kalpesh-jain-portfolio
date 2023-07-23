@@ -1,2 +1,2 @@
-This is a personal project developed by Kalpesh Jain.
+Developed by Kalpesh Jain.
 any queries mail : Kalpesh@gmail.com
