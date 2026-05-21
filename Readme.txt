@@ -1,3 +1,3 @@
 Developed by Kalpesh Jain.
-any queries mail : kjain2511@yahoo.com
+any queries mail : 
 hosted on netlify.
